@@ -41,7 +41,6 @@
 - [os](https://docs.python.org/pt-br/3/library/os.html) 
 - [pip3](https://pip.pypa.io/en/stable/getting-started/)(v23.2)
 - [pyinstaller](https://pyinstaller.org/en/stable/)
-- [AWS/EC2 ](https://sa-east-1.console.aws.amazon.com/ec2/home?region=sa-east-1#Instances:v=3;$case=tags:true%5C,client:false;$regex=tags:false%5C,client:false)
 
 <br>
 
