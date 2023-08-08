@@ -89,8 +89,6 @@ Para rodar o projeto no ambiente local do VsCode siga os seguintes passos:
 
 ##  <img src="https://media.giphy.com/media/OMrq9FmUgObwogeL06/giphy.gif" align="center" height="35" width="45"> Agora você está pronto para interagir com o projeto:
    -  Pelo terminal de comando do VSCode;   
-   -   ou na _pasta dist_  <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="25" width="25"> _no arquivo "BotTelegram.exe"_  vai baixar o download em ```View raw```   
-   - E após vai abrir na pasta do seu computador em `download` no arquivo _BotTelegram.exe.
 
 <br>
 
