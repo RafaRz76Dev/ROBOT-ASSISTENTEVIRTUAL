@@ -13,7 +13,9 @@
   
 # **_ROBOT_ASSISTENTEVIRTUAL_**
 
-###  O projeto consiste em uma aplicação onde o usuário vai interagir conversando com a Assistente Virtual que vai responder conforme o contexto, como exemplo (```Pesquisa no Google```), aplicando a principal stack Python, as bibliotecas, gTTs,  speech_recognition, PyAudio, pyttsx3, playsound, random, webbrowser, os, pip3 e pyinstaller para um projeto incrível e de alta performance.
+###  O projeto consiste em uma aplicação onde o usuário vai interagir conversando com a Assistente Virtual que vai responder conforme o contexto, como exemplo (```Pesquisa no Google```), aplicando a principal stack Python, as bibliotecas, gTTs,  speech_recognition, PyAudio, pyttsx3, playsound, random, webbrowser, os, pip3 e pyinstaller e como deploy instanciando o AWS/EC2 para um projeto incrível e de alta performance.
+### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="65" width="65"> 
+## [Clique aqui e venha conversar com a Robot a (```Assistente Virtual```)!](https://github.com/RafaRz76Dev/ROBOT-ASSISTENTEVIRTUAL/blob/main/dist/main.exe)
 
 <br>
 
@@ -86,7 +88,16 @@ Para rodar o projeto no ambiente local do VsCode siga os seguintes passos:
 ***
 
 ##  <img src="https://media.giphy.com/media/OMrq9FmUgObwogeL06/giphy.gif" align="center" height="35" width="45"> Agora você está pronto para interagir com o projeto:
-   -  Pelo terminal de comando do VSCode;   
+   -  Pelo terminal de comando do VSCode.
+
+### <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="center" height="65" width="65"> Ou pela implementação branche: 
+
+1. main  
+  - [release/main](https://github.com/RafaRz76Dev/ROBOT-ASSISTENTEVIRTUAL/tree/main)
+
+- Vai na  _pasta dist_  <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="25" width="25"> _no arquivo "chat.exe"_  vai baixar o download em ```View raw```   
+- E após vai abrir na pasta do seu computador em `download` no arquivo _chat.exe. 
+
 
 <br>
 
