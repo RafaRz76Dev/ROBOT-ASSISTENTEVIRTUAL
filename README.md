@@ -13,9 +13,7 @@
   
 # **_ROBOT_ASSISTENTEVIRTUAL_**
 
-###  O projeto consiste em uma aplicação onde o usuário vai interagir conversando com a Assistente Virtual que vai responder conforme o contexto, como exemplo (```Pesquisa no Google```), aplicando a principal stack Python, as bibliotecas, gTTs,  speech_recognition, PyAudio, pyttsx3, playsound, random, webbrowser, os, pip3 e pyinstaller e como deploy instanciando o AWS/EC2 para um projeto incrível e de alta performance.
-### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="65" width="65"> 
-## [ Clique aqui para acessar e conversar com a Robot (```a Robô Virtual```)!](https://github.com/RafaRz76Dev/ro/raw/master/dist/main.exe)
+###  O projeto consiste em uma aplicação onde o usuário vai interagir conversando com a Assistente Virtual que vai responder conforme o contexto, como exemplo (```Pesquisa no Google```), aplicando a principal stack Python, as bibliotecas, gTTs,  speech_recognition, PyAudio, pyttsx3, playsound, random, webbrowser, os, pip3 e pyinstaller para um projeto incrível e de alta performance.
 
 <br>
 
