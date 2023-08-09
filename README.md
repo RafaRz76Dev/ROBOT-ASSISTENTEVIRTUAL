@@ -93,12 +93,10 @@ Para rodar o projeto no ambiente local do VsCode siga os seguintes passos:
 ### <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="center" height="65" width="65"> Ou pela implementação branche: 
 
 1. main  
-  - [release/main](https://github.com/RafaRz76Dev/ROBOT-ASSISTENTEVIRTUAL/tree/main)
+  - [release/main -(``` clique aqui e acessará pela pasta dist``` )](https://github.com/RafaRz76Dev/ROBOT-ASSISTENTEVIRTUAL/tree/main)
 
-- Vai na  _pasta dist_  <img src="https://media.giphy.com/media/fXQqNrqKATCNwq6zin/giphy.gif" align="center" height="25" width="25"> _no arquivo "chat.exe"_  vai baixar o download em ```View raw```   
-- E após vai abrir na pasta do seu computador em `download` no arquivo _main.exe. 
-
-
+-  Obs: _Ler o ``Readme.md`` para maiores detalhes!
+  
 <br>
 
    - ## <img src="https://media.giphy.com/media/ImmvDZ2c9xPR8gDvHV/giphy.gif" align="center" height="25" width="25"> Autor
