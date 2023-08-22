@@ -13,12 +13,16 @@
   
 # **_ROBOT_ASSISTENTEVIRTUAL_**
 
-###  O projeto consiste em uma aplicação onde o usuário vai interagir conversando com a Assistente Virtual que vai responder conforme o contexto, como exemplo (```Pesquisa no Google```), aplicando a principal stack Python, as bibliotecas, gTTs,  speech_recognition, PyAudio, pyttsx3, playsound, random, webbrowser, os, pip3 e pyinstaller e como deploy instanciando o AWS/EC2 para um projeto incrível e de alta performance.
-### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="65" width="65"> 
+### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="55" width="55"> 
 ## [Clique aqui e venha conversar com a Robot a (```Assistente Virtual```)!](https://github.com/RafaRz76Dev/ROBOT-ASSISTENTEVIRTUAL/raw/main/dist/main.exe)
 
 <br>
 
+###  O projeto consiste em uma aplicação onde o usuário vai interagir conversando com a Assistente Virtual que vai responder conforme o contexto, como exemplo (```Pesquisa no Google```), aplicando a principal stack Python, as bibliotecas, gTTs,  speech_recognition, PyAudio, pyttsx3, playsound, random, webbrowser, os, pip3 e pyinstaller e como deploy instanciando o AWS/EC2 para um projeto incrível e de alta performance.
+
+<br>
+
+***
 <img src= "https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" align="center" height="55" width="55"> [ _Demonstração da  Robot-AssistenteVirtual_ ]   <img src= "https://media.giphy.com/media/E5DzZsofmgxc9wjbhX/giphy.gif" align="center" height="35" width="35">
 
 <img height="420em" src="images/readme-apresentacao.gif"  align="center">
@@ -99,6 +103,7 @@ Para rodar o projeto no ambiente local do VsCode siga os seguintes passos:
   
 <br>
 
+***
    - ## <img src="https://media.giphy.com/media/ImmvDZ2c9xPR8gDvHV/giphy.gif" align="center" height="25" width="25"> Autor
 
 <p>
