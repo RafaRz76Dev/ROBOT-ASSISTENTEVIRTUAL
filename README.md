@@ -33,7 +33,7 @@
 
 ***
 
-##  <img src="https://media.giphy.com/media/iT138SodaACo9LImgi/giphy.gif" align="center" height="75" width="75"> Tecnologias utilizadas no projeto
+<img src="https://media.giphy.com/media/iT138SodaACo9LImgi/giphy.gif" align="center" height="75" width="75"> Tecnologias utilizadas no projeto
 
 - [Python](https://www.python.org/)(v3.11.4)
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)(v3.10.0)
@@ -50,12 +50,12 @@
 
 ***
 
-##  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" align="center" height="35" width="45">  Ferramenta utilizada no projeto
+<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" align="center" height="35" width="45">  Ferramenta utilizada no projeto
 
 - [VsCode](https://code.visualstudio.com/download) (v1.80.1)
 
 ***
-## <img src="https://media.giphy.com/media/G03qiKqY1nq9ioFiXt/giphy.gif" align="center" height="75" width="75">  Instruções de execução
+<img src="https://media.giphy.com/media/G03qiKqY1nq9ioFiXt/giphy.gif" align="center" height="75" width="75">  Instruções de execução
 
 Para rodar o projeto no ambiente local do VsCode siga os seguintes passos:
 
@@ -94,7 +94,7 @@ Para rodar o projeto no ambiente local do VsCode siga os seguintes passos:
 ##  <img src="https://media.giphy.com/media/OMrq9FmUgObwogeL06/giphy.gif" align="center" height="35" width="45"> Agora você está pronto para interagir com o projeto:
    -  Pelo terminal de comando do VSCode.
 
-### <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="center" height="65" width="65"> Ou pela implementação branche: 
+<img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" align="center" height="65" width="65"> Ou pela implementação branche: 
 
 1. main  
   - [release/main -(``` clique aqui e acessará pela pasta dist``` )](https://github.com/RafaRz76Dev/ROBOT-ASSISTENTEVIRTUAL/tree/main)
