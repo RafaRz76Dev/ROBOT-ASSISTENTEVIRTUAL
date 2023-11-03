@@ -14,11 +14,11 @@
 # **_ROBOT_ASSISTENTEVIRTUAL_**
 
 ### <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="55" width="55"> 
-## [Clique aqui e venha conversar com a Robot a (```Assistente Virtual```)!](https://github.com/RafaRz76Dev/ROBOT-ASSISTENTEVIRTUAL/raw/main/dist/main.exe)
+## [Clique aqui e venha conversar com a minha Assistente Virtual mais animada (```Robot ```)!](https://github.com/RafaRz76Dev/ROBOT-ASSISTENTEVIRTUAL/raw/main/dist/main.exe)
 
 <br>
 
-###  O projeto consiste em uma aplicação onde o usuário vai interagir conversando com a Assistente Virtual que vai responder conforme o contexto, como exemplo (```Pesquisa no Google```), aplicando a principal stack Python, as bibliotecas, gTTs,  speech_recognition, PyAudio, pyttsx3, playsound, random, webbrowser, os, pip3 e pyinstaller e como deploy instanciando o AWS/EC2 para um projeto incrível e de alta performance.
+###  Criando meu 3º ChatBot, onde o projeto consiste em uma aplicação onde o usuário vai interagir conversando com a Assistente Virtual mais animada => ``A Robot`` que vai responder conforme o contexto, como exemplo (```Pesquisa no Google```), aplicando a principal stack Python, as bibliotecas, gTTs,  speech_recognition, PyAudio, pyttsx3, playsound, random, webbrowser, os, pip3 e pyinstaller e como deploy instanciando o AWS/EC2 para um projeto incrível e de alta performance.
 
 <br>
 
